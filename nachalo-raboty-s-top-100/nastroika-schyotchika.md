@@ -4,8 +4,6 @@
 
 В разделе «Мои сайты» вы можете внести изменения в уже созданные счётчики. Для этого нажмите на шестерёнку напротив сайта, в настройки которого вы хотите внести изменения.
 
-
-
 <figure><img src="../.gitbook/assets/stat.top100.rambler.ru_stat_projects (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
@@ -16,21 +14,19 @@
 
 С помощью вкладки «Настройки счётчика» вы можете изменить название своего сайта в любое время. Если у вас поменялся адрес сайта, обратитесь в службу поддержки Cтатистики от SberAds через специальную [форму](https://help.rambler.ru/feedback/top100/), в которой укажите ID счетчика и новый URL. Ваша заявка будет рассмотрена в ближайшее время.
 
-
-
 <figure><img src="../.gitbook/assets/stat.top100.rambler.ru_stat_projects (1) (1).png" alt=""><figcaption><p>Пример заполнения адреса и названия сайта</p></figcaption></figure>
 
 ### **Отображение виджета**
 
 Если вы хотите, чтобы плашка Топ-100 присутствовала на вашем сайте, включите опцию «Отображать виджет». Здесь вы также можете поменять цвет виджета.
 
-<figure><img src="../.gitbook/assets/top100.rambler.ru_20%20(2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/виджет.png" alt=""><figcaption></figcaption></figure>
 
 ### **Дополнительные домены**
 
 При создании и настройке счётчика вы можете указать до 10 дополнительных доменов, которые будут считаться синонимами сайта. Укажите доменное имя и проставьте нужные вам галочки:
 
-<figure><img src="../.gitbook/assets/top100.rambler.ru_24%20(2).png" alt=""><figcaption><p>Пример заполнения дополнительных доменов</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/домен.png" alt=""><figcaption><p>Пример заполнения дополнительных доменов</p></figcaption></figure>
 
 #### Учитывать поддомены
 
@@ -52,7 +48,7 @@
 
 Выберите нужные вам функции:
 
-<figure><img src="../.gitbook/assets/top100.rambler.ru_25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/расширенные возможности.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 При выборе расширенных возможностей изменяется код счётчика.
@@ -72,21 +68,17 @@
 
 После того, как вы внесете изменения, раздел расширенных возможностей будет выглядеть таким образом:
 
-<figure><img src="../.gitbook/assets/Screenshot%202023-03-29%20at%2015.58.55.png" alt=""><figcaption><p>Пример заполнения расширенных возможностей</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/расширенные.png" alt=""><figcaption><p>Пример заполнения расширенных возможностей</p></figcaption></figure>
 
 В код счётчика добавятся параметры «attributes\_dataset», «trackHashes», «user\_id»:
 
-<figure><img src="../.gitbook/assets/Screenshot%202023-03-29%20at%2015.59.10.png" alt=""><figcaption><p>Пример счетчика</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/код.png" alt=""><figcaption><p>Пример счётчика</p></figcaption></figure>
 
 ### **Код счётчика**
 
 Скопируйте код счётчика, для того, чтобы разместить его на своем сайте. Для корректного подсчета статистики необходимо установить код на все страницы сайта. Код можно встроить в любое место HTML-кода, желательно в начало страницы, чтобы счётчик успел загрузиться при коротких визитах.
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/top100.rambler.ru_15(1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/код1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Обязательно сохраните изменения, которые вы внесли в настройки счётчика, с помощью кнопки «Сохранить изменения» внизу страницы.

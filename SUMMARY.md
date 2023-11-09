@@ -19,7 +19,7 @@
     * [Рекомендации по выбору темы](nachalo-raboty-s-top-100/uchastie-v-reitinge/rekomendacii-po-vyboru-temy.md)
     * [Рекомендации по выбору типа](nachalo-raboty-s-top-100/uchastie-v-reitinge/rekomendacii-po-vyboru-tipa.md)
     * [Рекомендации по выбору региона](nachalo-raboty-s-top-100/uchastie-v-reitinge/rekomendacii-po-vyboru-regiona.md)
-    * [Редакционная политика Рамблер/Топ-100](nachalo-raboty-s-top-100/uchastie-v-reitinge/redakcionnaya-politika-rambler-top-100.md)
+    * [Редакционная политика Топ-100](nachalo-raboty-s-top-100/uchastie-v-reitinge/redakcionnaya-politika-rambler-top-100.md)
   * [Восстановление доступа к счётчику](nachalo-raboty-s-top-100/vosstanovlenie-dostupa-k-schetchiku.md)
 * [Настройка сбора и отправки данных](nastroika-sbora-i-otpravki-dannykh/README.md)
   * [Веб счётчик](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/README.md)

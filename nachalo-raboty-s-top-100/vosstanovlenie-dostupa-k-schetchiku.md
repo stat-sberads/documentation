@@ -1,18 +1,18 @@
 # Восстановление доступа к счётчику
 
-**Шаг 1.** Для того, чтобы восстановить доступ к счётчику, нажмите кнопку «Добавить сайт»
+**Шаг 1.** Для того, чтобы восстановить доступ к счётчику, нажмите кнопку «Добавить сайт».
 
-<figure><img src="../.gitbook/assets/top100.rambler.ru_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stat.top100.rambler.ru_stat_projects__sberads=1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Шаг 2.** Введите адрес сайта, доступ к которому необходимо восстановить. Проставьте галочки в reCAPTCHA и примите пользовательское соглашение. Завершите действие кнопкой «Создать счётчик»
 
-<figure><img src="../.gitbook/assets/top100.rambler.ru_3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/top100.rambler.ru_3%20(1).png" alt=""><figcaption></figcaption></figure>
 
 **Шаг 3.** Выберите счётчик, к которому хотите восстановить доступ.
 
 <figure><img src="../.gitbook/assets/top100.rambler.ru_28(1).png" alt=""><figcaption></figcaption></figure>
 
-**Шаг 4**. Нажмите на кнопку «Восстановить доступ». Если вы хотите создать новый счётчик, кликните на соответствующую плашку.&#x20;
+**Шаг 4**. Нажмите на кнопку «Восстановить доступ». Если вы хотите создать новый счётчик, кликните на соответствующую плашку.
 
 <figure><img src="../.gitbook/assets/top100.rambler.ru_11(1).png" alt=""><figcaption></figcaption></figure>
 
