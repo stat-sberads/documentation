@@ -1,6 +1,6 @@
 # Содержание
 
-1. [Начало работы с Топ-100](nachalo-raboty-s-top-100/)
+1. [Начало работы со Статистикой от SberAds](nachalo-raboty-s-top-100/)
    * [Регистрация в сервисе](nachalo-raboty-s-top-100/registraciya-na-servise.md)
    * [Создание счётчика Топ-100](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/)
      * [1-ый этап создания счётчика](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/1-yi-etap-sozdaniya-schyotchika.md)
@@ -39,7 +39,7 @@
        * [Рекомендации по передачи eCommerce-данных](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/peredacha-e-commerce-dannykh/rekomendacii-po-peredache-ecommerce-dannykh.md)
        * [Примеры передачи eCommerce-данных](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/peredacha-e-commerce-dannykh/primery-peredachi-ecommerce-dannykh.md)
      * [Разметка для отчетов по медиа](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-dlya-otchetov-po-media/)
-       * [Разметка Shema.org](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-dlya-otchetov-po-media/razmetka-schema.org/)
+       * [Разметка Shema.org](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-dlya-otchetov-po-media/razmetka-schema.org)
          * [JSON-LD](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-dlya-otchetov-po-media/razmetka-schema.org/json-ld.md)
          * [Microdata](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-dlya-otchetov-po-media/razmetka-schema.org/microdata.md)
      * [Разметка разделов сайта](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-razdelov-saita.md)
