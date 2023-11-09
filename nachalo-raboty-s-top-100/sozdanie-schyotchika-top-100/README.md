@@ -6,7 +6,7 @@
 
 **Шаг 1.** Откройте[ главную страницу Статистики от SberAds](https://ads.sber.ru/stat/start) и кликните на иконку «Начать».
 
-<figure><img src="../../.gitbook/assets/ads.sber.ru_stat_start__openstat=catalogue_top100;sberAds;analitics_banner;catalogue_home.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ads.sber.ru_stat_start__openstat=catalogue_top100;sberAds;analitics_banner;catalogue_home (1).png" alt=""><figcaption></figcaption></figure>
 
 **Шаг 2.** Далее нажмите на кнопку «Добавить сайт».
 
