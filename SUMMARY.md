@@ -2,7 +2,7 @@
 
 * [О сервисе Статистика от SberAds](README.md)
 * [Содержание](soderzhanie.md)
-* [Начало работы с Toп-100](nachalo-raboty-s-top-100/README.md)
+* [Начало работы со Статистикой от SberAds](nachalo-raboty-s-top-100/README.md)
   * [Регистрация в сервисе](nachalo-raboty-s-top-100/registraciya-na-servise.md)
   * [Создание счётчика Топ-100](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/README.md)
     * [1-ый этап создания счётчика](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/1-yi-etap-sozdaniya-schyotchika.md)
@@ -106,7 +106,7 @@
       * [Источники](rabota-s-otchyotami-v-analitike-top-100/otchyoty-analitiki-top-100/bazovye-otchety/istochniki.md)
       * [Содержание](rabota-s-otchyotami-v-analitike-top-100/otchyoty-analitiki-top-100/bazovye-otchety/soderzhanie.md)
       * [Поведение](rabota-s-otchyotami-v-analitike-top-100/otchyoty-analitiki-top-100/bazovye-otchety/povedenie.md)
-  * [Метрики Аналитики Топ-100](rabota-s-otchyotami-v-analitike-top-100/metriki-analitiki-top-100/README.md)
+  * [Метрики статистики от SberAds](rabota-s-otchyotami-v-analitike-top-100/metriki-analitiki-top-100/README.md)
     * [Параметры](rabota-s-otchyotami-v-analitike-top-100/metriki-analitiki-top-100/parametry.md)
     * [Вычисляемые метрики](rabota-s-otchyotami-v-analitike-top-100/metriki-analitiki-top-100/vychislyaemye-metriki.md)
 * [Практические примеры и использование (Cook Book)](prakticheskie-primery-i-ispolzovanie-cook-book/README.md)
