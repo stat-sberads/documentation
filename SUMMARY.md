@@ -7,7 +7,7 @@
   * [Создание счётчика Cтатистики от SberAds](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/README.md)
     * [1-ый этап создания счётчика](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/1-yi-etap-sozdaniya-schyotchika.md)
     * [2-ой этап создания счётчика](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/2-oi-etap-sozdaniya-schyotchika.md)
-  * [Установка счётчика Топ-100](nachalo-raboty-s-top-100/ustanovka-schyotchika-top-100/README.md)
+  * [Установка счётчика Статистики от SberAds](nachalo-raboty-s-top-100/ustanovka-schyotchika-top-100/README.md)
     * [Установка в веб-приложение (на сайт)](nachalo-raboty-s-top-100/ustanovka-schyotchika-top-100/ustanovka-v-veb-prilozhenie-na-sait.md)
     * [Установка трекингового SDK в приложение на Android](nachalo-raboty-s-top-100/ustanovka-schyotchika-top-100/ustanovka-trekingovogo-sdk-v-prilozhenie-na-android.md)
     * [Установка трекингового SDK в приложение на iOS](nachalo-raboty-s-top-100/ustanovka-schyotchika-top-100/ustanovka-trekingovogo-sdk-v-prilozhenie-na-ios.md)
