@@ -1,6 +1,6 @@
 # Table of contents
 
-* [О сервисе Топ-100](README.md)
+* [О сервисе Статистика от SberAds](README.md)
 * [Содержание](soderzhanie.md)
 * [Начало работы с Toп-100](nachalo-raboty-s-top-100/README.md)
   * [Регистрация в сервисе](nachalo-raboty-s-top-100/registraciya-na-servise.md)
