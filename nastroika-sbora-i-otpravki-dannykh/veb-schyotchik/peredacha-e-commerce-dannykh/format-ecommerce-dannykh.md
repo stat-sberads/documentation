@@ -58,7 +58,7 @@ window.dataLayer.push({
 });
 ```
 
-Рекомендации по тому, какие группы полей для каких ситуаций и событий передавать, приводятся в разделе «[Рекомендации по передаче eCommerce-данных](https://top-100-writer.gitbook.io/dokumentaciya-top-100-po-novoi-modeli-progress/nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/peredacha-e-commerce-dannykh/rekomendacii-po-peredache-ecommerce-dannykh)».
+Рекомендации по тому, какие группы полей для каких ситуаций и событий передавать, приводятся в разделе «[Рекомендации по передаче eCommerce-данных](rekomendacii-po-peredache-ecommerce-dannykh.md)».
 
 ### Структура объекта \<productFieldObject> с описанием товара: <a href="#struktura-obekta-less-than-productfieldobject-greater-than-s-opisaniem-tovara" id="struktura-obekta-less-than-productfieldobject-greater-than-s-opisaniem-tovara"></a>
 

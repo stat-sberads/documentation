@@ -4,15 +4,15 @@ Debug-режим позволяет проверить корректность 
 
 После включения debug-режима на странице сайта отобразится эмблема кракена.
 
-<figure><img src="../../.gitbook/assets/photo_2023-06-27_15-11-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-В DevTools во вкладке Console появится логирование событий, где будет информация о названии счетчика, его параметрах и действиях.&#x20;
+В DevTools во вкладке Console появится логирование событий, где будет информация о названии счетчика, его параметрах и действиях.
 
-<figure><img src="../../.gitbook/assets/photo_2023-06-27_15-37-36 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 Вы также можете выбрать – показывать ли блоки, если вы используете аналитику блоков. Для активации нажмите на иконку Кракена на сайте.
 
-<figure><img src="../../.gitbook/assets/дебаг (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Обратите внимание! Функционал может работать нестабильно при включенном блокировщике рекламы.
