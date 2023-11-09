@@ -7,4 +7,5 @@
 * [Показ страницы / экрана](pokaz-stranicy-ekrana.md)
 * [Закрытие страницы](zakrytie-stranicy.md)
 * [Переход по внешней ссылке](perekhod-po-vneshnei-ssylke.md)
-* [Пользовательская активность](broken-reference)
+* [Переход по ссылке в приложении](perekhod-po-ssylke-v-prilozhenii.md)
+* [Покупка в приложении](pokupka-v-prilozhenii.md)

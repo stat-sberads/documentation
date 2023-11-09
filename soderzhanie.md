@@ -82,7 +82,7 @@
 3. [Модель данных](model-dannykh/)
    * [Типы событий](model-dannykh/tipy-sobytii.md)
    * [Описание событий](model-dannykh/opisanie-sobytii.md)
-4. [Работа с отчётами Статистики от SberAds](rabota-s-otchyotami-v-analitike-top-100/)
+4. [Работа Аналитики сервиса ](rabota-s-otchyotami-v-analitike-top-100/)
    * [Инструменты аналитики Статистики от SberAds](rabota-s-otchyotami-v-analitike-top-100/instrumenty-analitiki-top-100/)
      * [Графики и таблицы](rabota-s-otchyotami-v-analitike-top-100/instrumenty-analitiki-top-100/grafiki-i-tablicy.md)
      * [Фильтры по условиям](rabota-s-otchyotami-v-analitike-top-100/instrumenty-analitiki-top-100/filtry-po-usloviyam.md)

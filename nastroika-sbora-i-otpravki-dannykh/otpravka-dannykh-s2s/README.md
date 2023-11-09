@@ -1,6 +1,6 @@
 # Отправка данных S2S
 
-Данные о событиях в приложении можно отправлять напрямую на серверы Топ-100 посредством HTTPS-запросов вида:
+Данные о событиях в приложении можно отправлять напрямую на серверы Статистики от SberAds посредством HTTPS-запросов вида:
 
 * `https://kraken.rambler.ru/cnt/v2/?<params>`
 
@@ -16,6 +16,6 @@
 
 Читайте в этом разделе:
 
-* [Заголовки запроса](https://top-100-writer.gitbook.io/dokumentaciya-top-100-po-novoi-modeli-progress/nastroika-sbora-i-otpravki-dannykh/otpravka-dannykh-s2s/zagolovki-zaprosa)
-* [Базовые параметры запроса](https://top-100-writer.gitbook.io/dokumentaciya-top-100-po-novoi-modeli-progress/nastroika-sbora-i-otpravki-dannykh/otpravka-dannykh-s2s/bazovye-parametry-zaprosa)
-* [Параметры событий](https://top-100-writer.gitbook.io/dokumentaciya-top-100-po-novoi-modeli-progress/nastroika-sbora-i-otpravki-dannykh/otpravka-dannykh-s2s/parametry-sobytii)
+* [Заголовки запроса](zagolovki-zaprosa.md)
+* [Базовые параметры запроса](bazovye-parametry-zaprosa.md)
+* [Параметры событий](parametry-sobytii/)
