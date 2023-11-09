@@ -4,7 +4,7 @@
 * [Содержание](soderzhanie.md)
 * [Начало работы со Статистикой от SberAds](nachalo-raboty-s-top-100/README.md)
   * [Регистрация в сервисе](nachalo-raboty-s-top-100/registraciya-na-servise.md)
-  * [Создание счётчика Топ-100](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/README.md)
+  * [Создание счётчика Cтатистики от SberAds](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/README.md)
     * [1-ый этап создания счётчика](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/1-yi-etap-sozdaniya-schyotchika.md)
     * [2-ой этап создания счётчика](nachalo-raboty-s-top-100/sozdanie-schyotchika-top-100/2-oi-etap-sozdaniya-schyotchika.md)
   * [Установка счётчика Топ-100](nachalo-raboty-s-top-100/ustanovka-schyotchika-top-100/README.md)
