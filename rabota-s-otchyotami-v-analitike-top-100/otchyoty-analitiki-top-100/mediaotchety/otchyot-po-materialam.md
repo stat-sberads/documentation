@@ -2,15 +2,17 @@
 
 В этом отчёте вы можете получить подробную статистику по всем материалам за выбранный период времени. Рассмотрим каждый блок отчёта подробнее:
 
-<figure><img src="../../../.gitbook/assets/1 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Настройка периода и фильтра.** Вы можете настроить период времени, семпл, выбрать детализацию по 5 минут или по часам, а также условия, которые вас интересуют. Мы будем рассматривать блоки на примере условий, выбранных по умолчанию.
 
-<figure><img src="../../../.gitbook/assets/2 (8).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/2 (11).png" alt=""><figcaption></figcaption></figure>
 
 * **Ключевые метрики** (подробное описание метрик читайте в разделе «[Вычисляемые метрики](../../metriki-analitiki-top-100/vychislyaemye-metriki.md)»): дочтение, рециркуляция, время на материале, просмотры, посетители.
 
-<figure><img src="../../../.gitbook/assets/3 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3.3.png" alt=""><figcaption></figcaption></figure>
 
 * **Источники переходов на материалы.** Каждый визит на сайт происходит с определенного источника (см. раздел «[Источники трафика](../bazovye-otchety/istochniki.md)»). Мы сортируем источники по типам и предоставляем по каждому график с различными метриками: визиты, просмотры, посетители, дочтение, доскролл (подробное описание метрик читайте в разделе «[Вычисляемые метрики](../../metriki-analitiki-top-100/vychislyaemye-metriki.md)»). Также доступен выбор визуализации [графика](../../instrumenty-analitiki-top-100/grafiki-i-tablicy.md).
 
