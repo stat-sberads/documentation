@@ -12,7 +12,7 @@
 
 За каждым визитом на сайт стоит определенный источник перехода – то, откуда пришел посетитель на сайт.
 
-**Счетчик Топ-100 систематизирует данные источники в группы:**
+**Счетчик Статистики от SberAds систематизирует данные источники в группы:**
 
 * **Прямые заходы.** Засчитываются при вводе названия сайта в адресной строке.
 * **Переходы с сохраненных страниц**. Засчитываются при переходе на сайт со страницы, которая локально сохранена на компьютере.
@@ -36,49 +36,49 @@ Adfox;
 
 Admitad;
 
-AdNews;&#x20;
+AdNews;
 
-ADNous;&#x20;
+ADNous;
 
-AdRiver;&#x20;
+AdRiver;
 
-Advmaker; &#x20;
+Advmaker;
 
-Апорт;&#x20;
+Апорт;
 
-Avito Промо;&#x20;
+Avito Промо;
 
-Avito Контекст;&#x20;
+Avito Контекст;
 
-AWAPS;&#x20;
+AWAPS;
 
-Begun;&#x20;
+Begun;
 
-Bing Ads;&#x20;
+Bing Ads;
 
-B2BContext;&#x20;
+B2BContext;
 
-Criteo;&#x20;
+Criteo;
 
-DirectAdvert;&#x20;
+DirectAdvert;
 
-DriveNetwork;&#x20;
+DriveNetwork;
 
-Facebook\*;&#x20;
+Facebook\*;
 
-Giraff.io;&#x20;
+Giraff.io;
 
-Google;&#x20;
+Google;
 
-Instagram\*;&#x20;
+Instagram\*;
 
-Каванга;&#x20;
+Каванга;
 
-Ladycenter;&#x20;
+Ladycenter;
 
-ЛинкРу;&#x20;
+ЛинкРу;
 
-Magna Context;&#x20;
+Magna Context;
 
 МаркетГид;
 
@@ -86,13 +86,13 @@ Medialand;
 
 Google Merchant;
 
-Мой Мир;&#x20;
+Мой Мир;
 
-NNN;&#x20;
+NNN;
 
 Одноклассники;
 
-Price;&#x20;
+Price;
 
 PRRE;
 
@@ -100,29 +100,29 @@ RTB House;
 
 Target (myTarget);
 
-Sberads;&#x20;
+Sberads;
 
-Taboola;&#x20;
+Taboola;
 
-TikTok;&#x20;
+TikTok;
 
-Товары Mail.ru;&#x20;
+Товары Mail.ru;
 
-RORER;&#x20;
+RORER;
 
-tTarget;&#x20;
+tTarget;
 
-Украинская Баннерная Сеть;&#x20;
+Украинская Баннерная Сеть;
 
-Videonow;&#x20;
+Videonow;
 
-ВКонтакте;&#x20;
+ВКонтакте;
 
-Whisla;&#x20;
+Whisla;
 
-Яндекс;&#x20;
+Яндекс;
 
-YouTube;&#x20;
+YouTube;
 
 Рамблер;
 
@@ -149,8 +149,6 @@ MRG;
 РБК;
 
 Другая система.
-
-
 
 \*Запрещен на территории Российской Федерации.
 
@@ -299,8 +297,6 @@ Reddit;
 StumbleUpon;
 
 Другая социальная сеть.
-
-
 
 \*Запрещен на территории Российской Федерации.
 
