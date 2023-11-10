@@ -4,20 +4,20 @@
 
 * Откроем окно заведения цели и введем нужное название. После чего выбираем «Тип условия» – «Параметр».
 
-<figure><img src="../../.gitbook/assets/Пример 3.0.0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (13).png" alt=""><figcaption></figcaption></figure>
 
 * Далее выберем «События» – «Класс события». Просмотр страницы относится к базовым событиям (см. «[Описание событий](../../model-dannykh/opisanie-sobytii.md)»). Ставим галочку напротив Базовых событий.
 
-<figure><img src="../../.gitbook/assets/Пример 3.1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (15).png" alt=""><figcaption></figcaption></figure>
 
 * В списке [Описания событий](../../model-dannykh/opisanie-sobytii.md) ищем нужное наименование и вводим его в пункт «Название события». В нашем случае это показ страницы/экрана – page\_view
 
-<figure><img src="../../.gitbook/assets/Пример 3.2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (12).png" alt=""><figcaption></figcaption></figure>
 
 * Теперь нам нужно добавить ссылку на страницу, посещаемость которой мы хотим оценить. Для этого открываем параметр «Содержание» – «URL». Вводим URL страницы. Вы можете ввести точный URL, по которому будет считываться посещаемость. Также вы можете поставить знак «\*» до или после URL, чтобы также учитывались поддомены и путь.
 
-<figure><img src="../../.gitbook/assets/пример 3.3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (11).png" alt=""><figcaption></figcaption></figure>
 
 * После того, как добавили все необходимые условия, нажимаем кнопку «Добавить цель». Готово!
 
-<figure><img src="../../.gitbook/assets/пример 3.4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (7).png" alt=""><figcaption></figcaption></figure>
