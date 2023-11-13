@@ -14,7 +14,7 @@
 
 <figure><img src="../../.gitbook/assets/3 (4).png" alt=""><figcaption></figcaption></figure>
 
-* **Источники трафика.** Вы можете выбрать как один, так и все [параметры](../metriki-analitiki-top-100/parametry.md) из списка: рекламные системы, поисковые системы, сайты/referer, социальные сети.
+* **Источники трафика.** Вы можете выбрать как один, так и все [параметры](../metriki-analitiki/parametry.md) из списка: рекламные системы, поисковые системы, сайты/referer, социальные сети.
 
 <figure><img src="../../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
 

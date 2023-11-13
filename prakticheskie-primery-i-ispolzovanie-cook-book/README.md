@@ -4,7 +4,7 @@
 
 Также расскажем, как отслеживать эффективность проводимой рекламной кампании с помощью Статистики от SberAds и приведем практические примеры заведения целевых событий.
 
-* [Все про установку счётчика Статистики от SberAds](vse-pro-ustanovku-schyotchika-top-100/)
+* [Все про установку счётчика Статистики от SberAds](vse-pro-ustanovku-schyotchika/)
 * [Практическое руководство по Аналитике блоков](prakticheskoe-rukovodstvo-po-analitike-blokov/)
 * [Инструкция для рекламодателей](instrukciya-dlya-reklamodatelei.md)
 * [Примеры заведения параметров целевых событий](primery-zavedeniya-parametrov-celevykh-sobytii/)

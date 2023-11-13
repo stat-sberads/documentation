@@ -4,6 +4,6 @@
 
 В этом разделе вы узнаете, какие инструменты используются в Статистике от SberAds, получите пошаговые инструкции о каждом отчёте, а также подробно узнаете о параметрах и вычисляемых метриках Статистики от SberAds.
 
-* [Инструменты Статистики от SberAds](instrumenty-analitiki-top-100/)
-* [Отчёты Статистики от SberAds](otchyoty-analitiki-top-100/)
-* [Метрики Статистики от SberAds](metriki-analitiki-top-100/)
+* [Инструменты Статистики от SberAds](instrumenty-analitiki/)
+* [Отчёты Статистики от SberAds](otchyoty-analitiki/)
+* [Метрики Статистики от SberAds](metriki-analitiki/)

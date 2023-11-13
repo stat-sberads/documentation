@@ -5,8 +5,8 @@
 Для этого необходимо:
 
 1. [Зарегистрироваться в cервисе](registraciya-na-servise.md)
-2. [Создать новый счётчик](sozdanie-schyotchika-top-100/)
-3. [Добавить счётчик в приложение](ustanovka-schyotchika-top-100/)
+2. [Создать новый счётчик](sozdanie-schyotchika/)
+3. [Добавить счётчик в приложение](ustanovka-schyotchika/)
 
 Кроме того, в этой главе, мы расскажем, как включить опцию [«Участвовать в рейтинге»](nastroika-schyotchika.md) и правильно ее настроить.
 
