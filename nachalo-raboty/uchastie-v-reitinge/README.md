@@ -4,7 +4,9 @@
 
 После установки счётчика вы можете включить опцию «Участвовать в рейтинге». Для этого нажмите на шестеренку напротив сайта, который вы хотите включить в рейтинг.
 
-<figure><img src="../../.gitbook/assets/top100.rambler.ru_19.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/stat.top100.rambler.ru_stat_projects (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **ВНИМАНИЕ!** Участие в рейтинге доступно только при установленном на сайте счётчике
