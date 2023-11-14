@@ -9,6 +9,6 @@
 | title     | String | Тема письма                                        |
 | blockName | String | Название блока в письме                            |
 | heading   | String | Заголовок новости/материала/ссылки                 |
-| image     | String | Наличие картинки (true/false (0/1)).               |
+| image     | String | Наличие картинки (true/false (0/1))                |
 | url       | String | Ссылка для перехода (attachment: true/false (0/1)) |
 
