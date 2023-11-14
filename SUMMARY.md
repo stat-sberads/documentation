@@ -124,5 +124,6 @@
     * [Заведение собственного события](prakticheskie-primery-i-ispolzovanie-cook-book/primery-zavedeniya-parametrov-celevykh-sobytii/zavedenie-sobstvennogo-sobytiya.md)
     * [Посещаемость определенной страницы сайта](prakticheskie-primery-i-ispolzovanie-cook-book/primery-zavedeniya-parametrov-celevykh-sobytii/poseshaemost-opredelennoi-stranicy-saita.md)
     * [Покупка товаров женщинами в возрасте около 30 лет](prakticheskie-primery-i-ispolzovanie-cook-book/primery-zavedeniya-parametrov-celevykh-sobytii/pokupka-tovarov-zhenshinami-v-vozraste-okolo-30-let.md)
+  * [Разметка писем](prakticheskie-primery-i-ispolzovanie-cook-book/razmetka-pisem.md)
   * [Кейсы](prakticheskie-primery-i-ispolzovanie-cook-book/keisy.md)
 * [Частые вопросы и обратная связь](chastye-voprosy-i-obratnaya-svyaz.md)
