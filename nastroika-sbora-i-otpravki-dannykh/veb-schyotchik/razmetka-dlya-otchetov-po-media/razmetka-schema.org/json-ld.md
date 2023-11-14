@@ -35,7 +35,7 @@
 
 **Пример:**
 
-&#x20;`"identifier": { "@type": "PropertyValue", "propertyID": "mediaId", // ожидается именно такое название "value": "entity_303003" // изменяемое значение }`
+`"identifier": { "@type": "PropertyValue", "propertyID": "mediaId", // ожидается именно такое название "value": "entity_303003" // изменяемое значение }`
 
 #### **Заголовок материала** <a href="#id-standartysemanticheskoimikrorazmetki-microdata-zagolovok-required" id="id-standartysemanticheskoimikrorazmetki-microdata-zagolovok-required"></a>
 

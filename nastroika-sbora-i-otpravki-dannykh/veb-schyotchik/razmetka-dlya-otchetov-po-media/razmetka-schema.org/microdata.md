@@ -37,8 +37,8 @@
 **Пример:**
 
 `<div` `itemtype="`[`http://schema.org/Article`](http://schema.org/Article)`">`\
-&#x20;   `<h1>Крым, Турция, США. Как отдыхают футболисты</h1>`\
-&#x20;   `<p>Летнее межсезонье в Российской Премьер-Лиге получилось мимолётным, многие команды уже вышли из отпуска и начали подготовку к новому розыгрышу. Футболисты попытались воспользоваться этой паузой максимально продуктивно. </p>`\
+`<h1>Крым, Турция, США. Как отдыхают футболисты</h1>`\
+`<p>Летнее межсезонье в Российской Премьер-Лиге получилось мимолётным, многие команды уже вышли из отпуска и начали подготовку к новому розыгрышу. Футболисты попытались воспользоваться этой паузой максимально продуктивно. </p>`\
 `</div>`
 
 ### Идентификатор материала
@@ -51,7 +51,7 @@
 
 ### **Заголовок материала** <a href="#id-standartysemanticheskoimikrorazmetki-microdata-zagolovok-required" id="id-standartysemanticheskoimikrorazmetki-microdata-zagolovok-required"></a>
 
-Для передачи заголовка материала необходимо настроить передачу полей [headline](https://schema.org/headline) или [alternativeHeadline](https://schema.org/alternativeHeadline).&#x20;
+Для передачи заголовка материала необходимо настроить передачу полей [headline](https://schema.org/headline) или [alternativeHeadline](https://schema.org/alternativeHeadline).
 
 **Пример:**
 
@@ -61,7 +61,7 @@
 
 Для передачи даты публикации необходимо использовать поле [datePublished](https://schema.org/datePublished). Разметка передается в формате [ISO 8601](https://www.iso.org/standard/40874.html).
 
-**Пример:**&#x20;
+**Пример:**
 
 `<time itemprop="datePublished"` `datetime="2019-07-17T11:45:13+04:00">17.07.2019, 11:45</time>`
 
@@ -92,22 +92,22 @@
 
 **Пример:**
 
-`<ol` `itemscope=""` `itemtype="`[`http://schema.org/BreadcrumbList`](http://schema.org/BreadcrumbList)`">` \
-&#x20; `<li` `itemprop="itemListElement"` `itemscope=""` `itemtype="`[`http://schema.org/ListItem`](http://schema.org/ListItem)`">` \
-&#x20;   `<a` `itemprop="item"` `href="//site.ru/fashion">` \
-&#x20;   `<span` `itemprop="name">Мода</span></a>` \
-&#x20;   `<meta` `itemprop="position"` `content="1">` \
-&#x20; `</li>` \
-&#x20; `<li` `itemprop="itemListElement"` `itemscope=""` `itemtype="`[`http://schema.org/ListItem`](http://schema.org/ListItem)`">` \
-&#x20;   `<a` `itemprop="item"` `href="//site.ru/fashion/boho">` \
-&#x20;   `<span` `itemprop="name">Стиль бохо</span></a>` \
-&#x20;   `<meta` `itemprop="position"` `content="2">` \
-&#x20; `</li>` \
-&#x20; `<li` `itemprop="itemListElement"` `itemscope=""` `itemtype="`[`http://schema.org/ListItem`](http://schema.org/ListItem)`">` \
-&#x20;   `<a` `itemprop="item"` `href="//site.ru/fashion/boho/woven-bags">` \
-&#x20;   `<span` `itemprop="name">Плетеные сумки</span></a>` \
-&#x20;   `<meta` `itemprop="position"` `content="3">` \
-&#x20; `</li>` \
+`<ol` `itemscope=""` `itemtype="`[`http://schema.org/BreadcrumbList`](http://schema.org/BreadcrumbList)`">`\
+`<li` `itemprop="itemListElement"` `itemscope=""` `itemtype="`[`http://schema.org/ListItem`](http://schema.org/ListItem)`">`\
+`<a` `itemprop="item"` `href="//site.ru/fashion">`\
+`<span` `itemprop="name">Мода</span></a>`\
+`<meta` `itemprop="position"` `content="1">`\
+`</li>`\
+`<li` `itemprop="itemListElement"` `itemscope=""` `itemtype="`[`http://schema.org/ListItem`](http://schema.org/ListItem)`">`\
+`<a` `itemprop="item"` `href="//site.ru/fashion/boho">`\
+`<span` `itemprop="name">Стиль бохо</span></a>`\
+`<meta` `itemprop="position"` `content="2">`\
+`</li>`\
+`<li` `itemprop="itemListElement"` `itemscope=""` `itemtype="`[`http://schema.org/ListItem`](http://schema.org/ListItem)`">`\
+`<a` `itemprop="item"` `href="//site.ru/fashion/boho/woven-bags">`\
+`<span` `itemprop="name">Плетеные сумки</span></a>`\
+`<meta` `itemprop="position"` `content="3">`\
+`</li>`\
 `</ol>`
 
 ### Тематика
@@ -116,9 +116,9 @@
 
 **Пример:**
 
-`<div` `itemprop="about">Мода</div>` \
-&#x20; `<div` `itemprop="about"` `itemscope=""` `itemtype="`[`https://schema.org/Thing`](https://schema.org/Thing)`">`  \
-&#x20; `<span` `itemprop="name">Одежда</span>` \
+`<div` `itemprop="about">Мода</div>`\
+`<div` `itemprop="about"` `itemscope=""` `itemtype="`[`https://schema.org/Thing`](https://schema.org/Thing)`">`\
+`<span` `itemprop="name">Одежда</span>`\
 `</div>`
 
 ### Автор
@@ -128,7 +128,7 @@
 **Пример:**
 
 `<div` `itemprop="author">Автор статьи</div>`\
-`<div` `itemprop="author"` `itemscope=""` `itemtype="`[`http://schema.org/Person`](http://schema.org/Person)`">    <span` `itemprop="name">Автор статьи</span></div>`
+`<div` `itemprop="author"` `itemscope=""` `itemtype="`[`http://schema.org/Person`](http://schema.org/Person)`"> <span` `itemprop="name">Автор статьи</span></div>`
 
 ### Аннотация материала (вводный абзац)
 
@@ -160,5 +160,5 @@
 
 **Пример:**
 
-| <p><code>&#x3C;div</code> <code>itemprop="video"</code> <code>itemscope itemtype="</code><a href="http://schema.org/VideoObject"><code>http://schema.org/VideoObject</code></a><code>"</code> <code>></code> <br>    <code>&#x3C;a</code> <code>itemprop="url"</code> <code>href="</code><a href="https://www.mysite.com/view/306/"><code>https://www.mysite.com/view/306/</code></a><code>"></code> <br>       <code>&#x3C;h1</code> <code>itemprop="name">Что такое Schema.org&#x3C;/h1></code><br>     <code>&#x3C;/a></code> <br>    <code>&#x3C;p</code> <code>itemprop="description">Schema.org - это стандарт семантической разметки данных в сети, объявленный поисковыми системами Google, Bing и Yahoo! летом 2011 года. Цель семантической разметки — сделать интернет более понятным, структурированным и облегчить поисковым системам и специальным программам извлечение и обработку информации для удобного её представления в результатах поиска.&#x3C;/p></code> <br>    <code>&#x3C;meta</code> <code>itemprop="duration"</code> <code>content="PT6M58S"></code> <br>    <code>&#x3C;meta</code> <code>itemprop="isFamilyFriendly"</code> <code>content="true"></code> <br>    <code>&#x3C;p>Дата загрузки:  &#x3C;span</code> <code>itemprop="uploadDate">2013-06-05T00:00:00&#x3C;/span>&#x3C;/p></code> <br>    <code>&#x3C;span</code> <code>itemprop="thumbnail"</code> <code>itemscope itemtype="</code><a href="http://schema.org/ImageObject"><code>http://schema.org/ImageObject</code></a><code>"></code> <br>        <code>&#x3C;img</code> <code>itemprop="contentUrl"</code> <code>src="</code><a href="https://www.mysite.com/images/preview/img1.jpg"><code>https://www.mysite.com/images/preview/img1.jpg</code></a><code>"></code> <br>        <code>&#x3C;meta</code> <code>itemprop="width"</code> <code>content="250"></code> <br>        <code>&#x3C;meta</code> <code>itemprop="height"</code> <code>content="120"></code> <br>    <code>&#x3C;/span></code><br><code>&#x3C;/div></code></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><code>&#x3C;div</code> <code>itemprop="video"</code> <code>itemscope itemtype="</code><a href="http://schema.org/VideoObject"><code>http://schema.org/VideoObject</code></a><code>"</code> <code>></code><br><code>&#x3C;a</code> <code>itemprop="url"</code> <code>href="</code><a href="https://www.mysite.com/view/306/"><code>https://www.mysite.com/view/306/</code></a><code>"></code><br><code>&#x3C;h1</code> <code>itemprop="name">Что такое Schema.org&#x3C;/h1></code><br><code>&#x3C;/a></code><br><code>&#x3C;p</code> <code>itemprop="description">Schema.org - это стандарт семантической разметки данных в сети, объявленный поисковыми системами Google, Bing и Yahoo! летом 2011 года. Цель семантической разметки — сделать интернет более понятным, структурированным и облегчить поисковым системам и специальным программам извлечение и обработку информации для удобного её представления в результатах поиска.&#x3C;/p></code><br><code>&#x3C;meta</code> <code>itemprop="duration"</code> <code>content="PT6M58S"></code><br><code>&#x3C;meta</code> <code>itemprop="isFamilyFriendly"</code> <code>content="true"></code><br><code>&#x3C;p>Дата загрузки: &#x3C;span</code> <code>itemprop="uploadDate">2013-06-05T00:00:00&#x3C;/span>&#x3C;/p></code><br><code>&#x3C;span</code> <code>itemprop="thumbnail"</code> <code>itemscope itemtype="</code><a href="http://schema.org/ImageObject"><code>http://schema.org/ImageObject</code></a><code>"></code><br><code>&#x3C;img</code> <code>itemprop="contentUrl"</code> <code>src="</code><a href="https://www.mysite.com/images/preview/img1.jpg"><code>https://www.mysite.com/images/preview/img1.jpg</code></a><code>"></code><br><code>&#x3C;meta</code> <code>itemprop="width"</code> <code>content="250"></code><br><code>&#x3C;meta</code> <code>itemprop="height"</code> <code>content="120"></code><br><code>&#x3C;/span></code><br><code>&#x3C;/div></code></p> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

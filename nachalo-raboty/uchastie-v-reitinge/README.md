@@ -14,7 +14,7 @@
 
 **Шаг 1.** В Личном кабинете нажмите кнопку «Участвовать» в строке сайта, который вы хотите включить в рейтинг. Если сайт с таким URL уже участвует рейтинге, то кнопка будет неактивна.
 
-<figure><img src="../../.gitbook/assets/top100.rambler.ru_5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/new-top100.rambler.ru_stat_projects_3140066_settings_rating.png" alt=""><figcaption></figcaption></figure>
 
 **Шаг 2.** На открывшейся странице введите следующие данные:
 
