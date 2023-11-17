@@ -2,11 +2,9 @@
 
 ## Участие в Рейтинге Топ-100
 
-После установки счётчика вы можете включить опцию «Участвовать в рейтинге». Для этого нажмите на шестеренку напротив сайта, который вы хотите включить в рейтинг.
+После установки счётчика вы можете включить опцию «Участвовать в рейтинге». Для этого нажмите на кнопку «Участвовать» напротив сайта, который вы хотите включить в рейтинг.
 
-
-
-<figure><img src="../../.gitbook/assets/stat.top100.rambler.ru_stat_projects (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stat.top100.rambler.ru_stat_projects (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **ВНИМАНИЕ!** Участие в рейтинге доступно только при установленном на сайте счётчике
@@ -25,15 +23,13 @@
 5. Ключевые слова.
 6. Отображение статистики: доступна всем или закрытая. При раскрытии статистики любому посетителю Топ-100 будет доступен отчет «Посещаемость», «Популярность» и отчет «Сегодня» с данными по посетителям, визитам и просмотрам.
 
-<figure><img src="../../.gitbook/assets/top100.rambler.ru_27.png" alt=""><figcaption><p>Пример заполнения данных для участия в рейтинге</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stat.top100.rambler.ru_stat_projects_7727275_settings_rating.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Обратите внимание на правила [редакционной политики](redakcionnaya-politika-top-100.md), из-за которых вам может быть отказано в участии в рейтинге.
 {% endhint %}
 
 **Шаг 3.** Сохраните изменения. После этого сайт будет отправлен на модерацию.\
-Модерация занимает до 15 рабочих дней. Текущий статус вашего сайта вы можете увидеть в столбце Рейтинг.
+Модерация занимает до 15 рабочих дней.&#x20;
 
-
-
-<figure><img src="../../.gitbook/assets/top100.rambler.ru_10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stat.top100.rambler.ru_stat_projects_7727275_settings_rating (1).png" alt=""><figcaption></figcaption></figure>

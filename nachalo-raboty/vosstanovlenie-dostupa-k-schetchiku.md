@@ -8,13 +8,13 @@
 
 <figure><img src="../.gitbook/assets/stat.top100.rambler.ru_stat_projects__sberads=1 (2).png" alt=""><figcaption></figcaption></figure>
 
-**Шаг 3.** Выберите счётчик, к которому хотите восстановить доступ.
+**Шаг 3.** Нажмите на кнопку «Восстановить доступ». Если вы хотите создать новый счётчик, кликните на соответствующую плашку.&#x20;
 
-<figure><img src="../.gitbook/assets/top100.rambler.ru_28(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stat.top100.rambler.ru_stat_create.png" alt=""><figcaption></figcaption></figure>
 
-**Шаг 4**. Нажмите на кнопку «Восстановить доступ». Если вы хотите создать новый счётчик, кликните на соответствующую плашку.
+**Шаг 4**. Выберите счётчик, к которому хотите восстановить доступ.
 
-<figure><img src="../.gitbook/assets/top100.rambler.ru_11(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stat.top100.rambler.ru_stat_create (1).png" alt=""><figcaption></figcaption></figure>
 
 **Шаг 5.** После всех действий к вам на почту придет файл, который вы должны разместить на своем сайте в течение семи дней. После чего наш робот проведет проверку и выдаст доступ.
 
