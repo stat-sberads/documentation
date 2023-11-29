@@ -12,11 +12,11 @@ top100Counter.trackEvent("EVENT_NAME", EVENT_DATA);
 
 #### Пример вызова метода:
 
-<pre><code>const eventName = 'my_event';
+<pre><code>const eventName = "my_event";
 const eventData = {
-<strong>    param1: 'value1',
+<strong>    param1: "value1",
 </strong>    param2: {
-        param3: 'value2',
+        param3: "value2",
     },
 };
 
