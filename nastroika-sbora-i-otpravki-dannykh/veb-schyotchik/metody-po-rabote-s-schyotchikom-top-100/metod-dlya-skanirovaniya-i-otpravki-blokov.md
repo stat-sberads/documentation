@@ -9,10 +9,10 @@ top100Counter.sendBlocks();
 #### Примеры вызова метода:
 
 ```
-window.top100Counter.sendBlocks();
+window.top100Counter?.sendBlocks();
 ```
 
 ```
 const container = document.getElementById('container_id'); 
-window.top100Counter.sendBlocks(container);
+window.top100Counter?.sendBlocks(container);
 ```

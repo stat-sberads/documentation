@@ -32,6 +32,7 @@
       * [Метод для отрисовки виджета на странице](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/metod-dlya-otrisovki-vidzheta-na-stranice.md)
       * [Метод для сканирования и отправки блоков](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/metod-dlya-skanirovaniya-i-otpravki-blokov.md)
       * [Метод для обновления параметров счётчика](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/metod-dlya-obnovleniya-parametrov-schetchika.md)
+    * [События счётчика](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/sobytiya-schyotchika.md)
     * [Подключение и настройка Аналитики Блоков](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/podklyuchenie-i-nastroika-analitiki-blokov/README.md)
       * [Описание принципов работы](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/podklyuchenie-i-nastroika-analitiki-blokov/opisanie-principov-raboty.md)
       * [Рекомендации по настройке и использованию](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/podklyuchenie-i-nastroika-analitiki-blokov/rekomendacii-po-nastroike-i-ispolzovaniyu.md)

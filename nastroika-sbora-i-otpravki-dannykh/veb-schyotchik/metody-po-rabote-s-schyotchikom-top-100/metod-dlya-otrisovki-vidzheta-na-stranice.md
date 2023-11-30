@@ -12,6 +12,6 @@ top100Counter.drawLogoTo("ELEMENT_ID");
 
 {% code overflow="wrap" %}
 ```
-window.top100Counter.drawLogoTo('top100_widget'); // id элемента где будет отрисован виджет
+window.top100Counter?.drawLogoTo('top100_widget'); // id элемента где будет отрисован виджет
 ```
 {% endcode %}

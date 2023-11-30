@@ -11,9 +11,9 @@ top100Counter.trackPageView("URL");
 #### Примеры вызова в коде страницы метода:
 
 ```
-window.top100Counter.trackPageview();
+window.top100Counter?.trackPageview();
 ```
 
 ```
-window.top100Counter.trackPageview('https://rambler.ru');
+window.top100Counter?.trackPageview('https://rambler.ru');
 ```

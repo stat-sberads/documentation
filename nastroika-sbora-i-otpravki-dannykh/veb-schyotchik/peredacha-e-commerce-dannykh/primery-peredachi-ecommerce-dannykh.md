@@ -7,25 +7,25 @@
 ```
 dataLayer.push({
     ecommerce: {
-        currencyCode: 'RUB',
+        currencyCode: "RUB",
         actionType: impressions,
         products : [{
             id: 25315,
-            name: 'Футболка с рисунком',
-            list : 'Результаты поиска',
-            brand: 'Печки-лавочки',
-            category: 'Одежда/Мужская одежда/Футболки',
-            variant: 'Серый цвет',
+            name: "Футболка с рисунком",
+            list : "Результаты поиска",
+            brand: "Печки-лавочки",
+            category: "Одежда/Мужская одежда/Футболки",
+            variant: "Серый цвет",
             position: 2,
             price: 2345.50
         },
         {
             id: 25317,
-            name: 'Майка',
-            list : 'Результаты поиска',
-            brand: 'Печки-лавочки',
-            category: 'Одежда/Мужская одежда/Футболки',
-            variant: 'Зеленый цвет',
+            name: "Майка",
+            list : "Результаты поиска",
+            brand: "Печки-лавочки",
+            category: "Одежда/Мужская одежда/Футболки",
+            variant: "Зеленый цвет",
             position: 1,
             price: 1499.00
         }]
@@ -38,14 +38,14 @@ dataLayer.push({
 ```
 dataLayer.push({
     ecommerce: {
-        currencyCode: 'RUB',
+        currencyCode: "RUB",
         actionType: click,
         promoActionType: promoClick: 
         promotions : [{
-            id: 'P15432',
-            name : 'Бейсболка',
+            id: "P15432",
+            name : "Бейсболка",
             creative: 503.60,
-            position: 'Печки-лавочки'
+            position: "Печки-лавочки"
         }]
      }
 });
@@ -56,15 +56,15 @@ dataLayer.push({
 ```
 dataLayer.push({
     ecommerce: {
-        currencyCode: 'RUB',
+        currencyCode: "RUB",
         actionType: click,
         products : [{
-            id: 'P15432',
-            name: 'Бейсболка',
+            id: "P15432",
+            name: "Бейсболка",
             price: 503.60,
-            brand: 'Печки-лавочки',
-            category: 'Мужчины/Аксессуары/Бейсболки',
-            variant : 'Синий цвет'
+            brand: "Печки-лавочки",
+            category: "Мужчины/Аксессуары/Бейсболки",
+            variant : "Синий цвет"
         }]
     }
 });
@@ -75,15 +75,15 @@ dataLayer.push({
 ```
 dataLayer.push({
     ecommerce: {
-        currencyCode: 'RUB',
+        currencyCode: "RUB",
         actionType: detail,
         products : [{
-            id: 'P15432',
-            name : 'Бейсболка',
+            id: "P15432",
+            name : "Бейсболка",
             price: 503.60,
-            brand: 'Печки-лавочки',
-            category: 'Мужчины/Аксессуары/Бейсболки',
-            variant : 'Синий цвет'
+            brand: "Печки-лавочки",
+            category: "Мужчины/Аксессуары/Бейсболки",
+            variant : "Синий цвет"
         }]
     }
 });
@@ -94,14 +94,14 @@ dataLayer.push({
 ```
 dataLayer.push({
     ecommerce: {
-        currencyCode: 'RUB',
+        currencyCode: "RUB",
         actionType: add,
         products : [{
             id: 43521,
-            name: 'Часы Citizen',
+            name: "Часы Citizen",
             price: 3654.32,
-            brand: 'Печки-лавочки',
-            category: 'Аксессуары/Часы',
+            brand: "Печки-лавочки",
+            category: "Аксессуары/Часы",
             quantity: 5
         }]
     }
@@ -116,8 +116,8 @@ dataLayer.push({
         actionType: remove,
         products : [{
             id: 176543,
-            name: 'Часы Citizen',
-            category: 'Аксессуары/Часы'
+            name: "Часы Citizen",
+            category: "Аксессуары/Часы"
         }]
     }
 });
@@ -128,18 +128,18 @@ dataLayer.push({
 ```
 dataLayer.push({
     ecommerce: {
-        currencyCode: 'RUB',
+        currencyCode: "RUB",
         actionType: checkout,
         products : [{
-            id: 'P15432',
-            name : 'Бейсболка',
+            id: "P15432",
+            name : "Бейсболка",
             price: 503.60,
-            brand: 'Печки-лавочки',
-            category: 'Мужчины/Аксессуары/Бейсболки',
-            variant : 'Синий цвет'
+            brand: "Печки-лавочки",
+            category: "Мужчины/Аксессуары/Бейсболки",
+            variant : "Синий цвет"
         },
         {
-            name: 'Значок',
+            name: "Значок",
             price: 46,
         }]
     }
@@ -151,11 +151,11 @@ dataLayer.push({
 ```
 dataLayer.push({
     ecommerce: {
-        currencyCode: 'RUB',
+        currencyCode: "RUB",
         actionType: checkout_option,
         actionField : {
              step: 2,
-             option : 'Самовывоз'
+             option : "Самовывоз"
         }
     }
 });
@@ -166,27 +166,27 @@ dataLayer.push({
 ```
 dataLayer.push({
     ecommerce: {
-        currencyCode: 'RUB',
+        currencyCode: "RUB",
         actionType: purchase,
         actionField: {
-             id : 'b52314',
+             id : "b52314",
         },
         products: [{
             id: 74367,
-            name: 'Свитшот с котиком',
+            name: "Свитшот с котиком",
             price: 2345.26,
-            brand: 'Печки-лавочки',
-            category: 'Одежда/Мужская одежда/Толстовки и свитшоты',
-            variant: 'Жёлтый цвет',
+            brand: "Печки-лавочки",
+            category: "Одежда/Мужская одежда/Толстовки и свитшоты",
+            variant: "Жёлтый цвет",
             quantity: 2
         },
         {
             id: 25314,
-            name: 'Футболка',
+            name: "Футболка",
             price: 643.62,
-            brand: 'Печки-лавочки',
-            category: 'Одежда/Женская одежда/Футболки',
-            variant: 'Белый цвет',
+            brand: "Печки-лавочки",
+            category: "Одежда/Женская одежда/Футболки",
+            variant: "Белый цвет",
             quantity: 1
         }]
     }
@@ -198,24 +198,24 @@ dataLayer.push({
 ```
 dataLayer.push({
     ecommerce: {
-        currencyCode: 'RUB',
+        currencyCode: "RUB",
         actionType: refund,
         products: [{
             id: 74367,
-            name: 'Свитшот с котиком',
+            name: "Свитшот с котиком",
             price: 2345.26,
-            brand: 'Печки-лавочки',
-            category: 'Одежда/Мужская одежда/Толстовки и свитшоты',
-            variant: 'Серый цвет',
+            brand: "Печки-лавочки",
+            category: "Одежда/Мужская одежда/Толстовки и свитшоты",
+            variant: "Серый цвет",
             quantity: 2
         },
         {
             id: 25314,
-            name: 'Футболка',
+            name: "Футболка",
             price: 643.62,
-            brand: 'Печки-лавочки',
-            category: 'Одежда/Женская одежда/Футболки',
-            variant: 'Белый цвет',
+            brand: "Печки-лавочки",
+            category: "Одежда/Женская одежда/Футболки",
+            variant: "Белый цвет",
             quantity: 1
         }]
     }

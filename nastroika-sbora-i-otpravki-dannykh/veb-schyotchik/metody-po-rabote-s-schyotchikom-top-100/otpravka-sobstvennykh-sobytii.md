@@ -20,5 +20,5 @@ const eventData = {
     },
 };
 
-<strong>window.top100Counter.trackEvent(eventName, eventData);
+<strong>window.top100Counter?.trackEvent(eventName, eventData);
 </strong></code></pre>
