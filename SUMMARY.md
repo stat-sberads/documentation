@@ -44,7 +44,6 @@
     * [Разметка Schema.org для отчетов по медиа](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-dlya-otchetov-po-media/razmetka-schema.org/README.md)
       * [JSON-LD](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-dlya-otchetov-po-media/razmetka-schema.org/json-ld.md)
       * [Microdata](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-dlya-otchetov-po-media/razmetka-schema.org/microdata.md)
-    * [Разметка разделов сайта](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/razmetka-razdelov-saita.md)
     * [Учет хэшей](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/uchet-kheshei.md)
     * [Сплитование](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/splitovanie.md)
     * [Debug режим счётчика](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/debug-rezhim-schyotchika.md)
