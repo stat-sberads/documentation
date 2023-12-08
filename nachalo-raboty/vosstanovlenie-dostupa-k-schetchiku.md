@@ -8,7 +8,7 @@
 
 <figure><img src="../.gitbook/assets/stat.top100.rambler.ru_stat_projects__sberads=1 (2).png" alt=""><figcaption></figcaption></figure>
 
-**Шаг 3.** Нажмите на кнопку «Восстановить доступ». Если вы хотите создать новый счётчик, кликните на соответствующую плашку.&#x20;
+**Шаг 3.** Во всплывшем окне нажмите на кнопку «Восстановить доступ». Если вы хотите создать новый счётчик, кликните на соответствующую плашку.&#x20;
 
 <figure><img src="../.gitbook/assets/stat.top100.rambler.ru_stat_create.png" alt=""><figcaption></figcaption></figure>
 
