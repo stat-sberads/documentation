@@ -126,4 +126,5 @@
     * [Покупка товаров женщинами в возрасте около 30 лет](prakticheskie-primery-i-ispolzovanie-cook-book/primery-zavedeniya-parametrov-celevykh-sobytii/pokupka-tovarov-zhenshinami-v-vozraste-okolo-30-let.md)
   * [Разметка писем](prakticheskie-primery-i-ispolzovanie-cook-book/razmetka-pisem.md)
   * [Как правильно посчитать авторизованных пользователей?](prakticheskie-primery-i-ispolzovanie-cook-book/keisy.md)
+  * [Page 1](prakticheskie-primery-i-ispolzovanie-cook-book/page-1.md)
 * [Частые вопросы и обратная связь](chastye-voprosy-i-obratnaya-svyaz.md)
