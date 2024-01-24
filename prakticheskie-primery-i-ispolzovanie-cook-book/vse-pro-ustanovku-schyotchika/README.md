@@ -4,5 +4,5 @@
 
 * [Как установить и проверить счётчик](kak-ustanovit-i-proverit-schyotchik.md)
 * [Куда можно установить счётчик Cтатистики от SberAds](kuda-mozhno-ustanovit-schetchik.md)
-* [Как настроить счётчик для Single Page Application](kak-nastroit-schetchik-dlya-single-page-application.md)
-* [Как установить счётчик через Google Tag Manager](kak-ustanovit-schetchik-cherez-google-tag-manager.md)
+* [Как настроить счётчик для Single Page Application](broken-reference)
+* [Как установить счётчик через Google Tag Manager](broken-reference)

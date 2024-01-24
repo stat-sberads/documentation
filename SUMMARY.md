@@ -113,8 +113,6 @@
   * [Все про установку счётчика Статистики от SberAds](prakticheskie-primery-i-ispolzovanie-cook-book/vse-pro-ustanovku-schyotchika/README.md)
     * [Как установить и проверить счётчик](prakticheskie-primery-i-ispolzovanie-cook-book/vse-pro-ustanovku-schyotchika/kak-ustanovit-i-proverit-schyotchik.md)
     * [Куда можно установить счетчик Статистики от SberAds?](prakticheskie-primery-i-ispolzovanie-cook-book/vse-pro-ustanovku-schyotchika/kuda-mozhno-ustanovit-schetchik.md)
-    * [Как настроить счетчик для Single Page Application?](prakticheskie-primery-i-ispolzovanie-cook-book/vse-pro-ustanovku-schyotchika/kak-nastroit-schetchik-dlya-single-page-application.md)
-    * [Как установить счетчик через Google Tag Manager](prakticheskie-primery-i-ispolzovanie-cook-book/vse-pro-ustanovku-schyotchika/kak-ustanovit-schetchik-cherez-google-tag-manager.md)
   * [Практическое руководство по Аналитике блоков](prakticheskie-primery-i-ispolzovanie-cook-book/prakticheskoe-rukovodstvo-po-analitike-blokov/README.md)
     * [Проектирование разметки](prakticheskie-primery-i-ispolzovanie-cook-book/prakticheskoe-rukovodstvo-po-analitike-blokov/proektirovanie-razmetki.md)
     * [Разметка блоков](prakticheskie-primery-i-ispolzovanie-cook-book/prakticheskoe-rukovodstvo-po-analitike-blokov/razmetka-blokov.md)
