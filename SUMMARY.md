@@ -27,7 +27,7 @@
     * [Методы по работе с счётчиком Статистики от SberAds](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/README.md)
       * [Отправка события о просмотре страницы](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/otpravka-sobytiya-o-prosmotre-stranicy.md)
       * [Отправка собственных событий](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/otpravka-sobstvennykh-sobytii.md)
-      * [Метод для передачи идентификатора авторизованного пользователя](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/metod-dlya-peredachi-identifikatora-avtorizovannogo-polzovatelya.md)
+      * [Метод для передачи идентификатора пользователя](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/metod-dlya-peredachi-identifikatora-avtorizovannogo-polzovatelya.md)
       * [Метод для получения данных об идентификаторе пользователя, устанавливаемого площадкой](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/metod-dlya-polucheniya-dannykh-ob-identifikatore-polzovatelya-ustanavlivaemogo-ploshadkoi.md)
       * [Метод для отрисовки виджета на странице](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/metod-dlya-otrisovki-vidzheta-na-stranice.md)
       * [Метод для сканирования и отправки блоков](nastroika-sbora-i-otpravki-dannykh/veb-schyotchik/metody-po-rabote-s-schyotchikom-top-100/metod-dlya-skanirovaniya-i-otpravki-blokov.md)
