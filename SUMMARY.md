@@ -100,6 +100,7 @@
       * [Топ материалов](rabota-s-otchyotami-v-analitike/otchyoty-analitiki/mediaotchety/top-materialov.md)
       * [Отчёт по авторам](rabota-s-otchyotami-v-analitike/otchyoty-analitiki/mediaotchety/otchyot-po-avtoram.md)
       * [Отчёт по автору](rabota-s-otchyotami-v-analitike/otchyoty-analitiki/mediaotchety/otchyot-po-avtoru.md)
+    * [Передача целевых событий в Яндекс Директ](rabota-s-otchyotami-v-analitike/otchyoty-analitiki/peredacha-celevykh-sobytii-v-yandeks-direkt.md)
     * [Базовые отчеты](rabota-s-otchyotami-v-analitike/otchyoty-analitiki/bazovye-otchety/README.md)
       * [Аудитория](rabota-s-otchyotami-v-analitike/otchyoty-analitiki/bazovye-otchety/auditoriya.md)
       * [Технологии](rabota-s-otchyotami-v-analitike/otchyoty-analitiki/bazovye-otchety/tekhnologii.md)
