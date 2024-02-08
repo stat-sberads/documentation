@@ -62,7 +62,7 @@
        * [Отправка собственных событий](nastroika-sbora-i-otpravki-dannykh/ios-sdk/metody-po-rabote-s-ios-sdk/otpravka-sobstvennykh-sobytii.md)
        * [Передача eCommerce-данных](nastroika-sbora-i-otpravki-dannykh/ios-sdk/metody-po-rabote-s-ios-sdk/peredacha-dannykh-elektronnoi-kommercii.md)
        * [Передача данных в web-view](nastroika-sbora-i-otpravki-dannykh/ios-sdk/metody-po-rabote-s-ios-sdk/peredacha-dannykh-v-web-view.md)
-     * [Debug режим счётчика (iOS SDK)](nastroika-sbora-i-otpravki-dannykh/ios-sdk/debug-rezhim-schyotchika-ios-sdk.md)
+     * [Debug режим счётчика (iOS SDK)](nastroika-sbora-i-otpravki-dannykh/ios-sdk/metody-po-rabote-s-ios-sdk/debug-rezhim-schyotchika-ios-sdk.md)
    * [Отправка данных S2S](nastroika-sbora-i-otpravki-dannykh/otpravka-dannykh-s2s/)
      * [Заголовки запроса](nastroika-sbora-i-otpravki-dannykh/otpravka-dannykh-s2s/zagolovki-zaprosa.md)
      * [Базовые параметры запроса](nastroika-sbora-i-otpravki-dannykh/otpravka-dannykh-s2s/bazovye-parametry-zaprosa.md)
