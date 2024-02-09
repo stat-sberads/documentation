@@ -55,6 +55,7 @@
       * [Отправка собственных событий](nastroika-sbora-i-otpravki-dannykh/android-sdk/metody-po-rabote-s-android-sdk/otpravka-sobstvennykh-sobytii.md)
       * [Передача eCommerce-данных](nastroika-sbora-i-otpravki-dannykh/android-sdk/metody-po-rabote-s-android-sdk/peredacha-dannykh-elektronnoi-kommercii.md)
       * [Передача данных в web-view](nastroika-sbora-i-otpravki-dannykh/android-sdk/metody-po-rabote-s-android-sdk/peredacha-dannykh-v-web-view.md)
+      * [Отправка событий о переходе по deeplink](nastroika-sbora-i-otpravki-dannykh/android-sdk/metody-po-rabote-s-android-sdk/otpravka-sobytii-o-perekhode-po-deeplink.md)
     * [Debug режим (Android SDK)](nastroika-sbora-i-otpravki-dannykh/android-sdk/debug-rezhim-android-sdk.md)
   * [iOS SDK](nastroika-sbora-i-otpravki-dannykh/ios-sdk/README.md)
     * [Параметры iOS SDK](nastroika-sbora-i-otpravki-dannykh/ios-sdk/parametry-ios-sdk.md)
