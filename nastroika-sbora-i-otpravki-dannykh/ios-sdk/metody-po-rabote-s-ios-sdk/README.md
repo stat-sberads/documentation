@@ -14,4 +14,4 @@
 </code></pre></td><td><pre><code>Формат данных &#x3C;TrackerTop100ECommerce>
 </code></pre></td><td><a href="peredacha-dannykh-v-web-view.md">Передача данных в web-view</a></td></tr><tr><td><pre><code>TrackerTop100.trackDeeplink(link: deeplink)
 </code></pre></td><td><pre><code>[TrackerTop100 trackDeeplinkWithLink: deeplink]
-</code></pre></td><td>Отправка событий о переходе по deeplink</td></tr></tbody></table>
+</code></pre></td><td><a href="otpravka-sobytii-o-perekhode-po-deeplink.md">Отправка событий о переходе по deeplink</a></td></tr></tbody></table>
