@@ -128,4 +128,5 @@
   * [Разметка писем](prakticheskie-primery-i-ispolzovanie-cook-book/razmetka-pisem.md)
   * [Как правильно посчитать авторизованных пользователей?](prakticheskie-primery-i-ispolzovanie-cook-book/keisy.md)
   * [Примеры отправки пикселей](prakticheskie-primery-i-ispolzovanie-cook-book/primery-otpravki-pikselei.md)
+  * [Deeplink](prakticheskie-primery-i-ispolzovanie-cook-book/deeplink.md)
 * [Частые вопросы и обратная связь](chastye-voprosy-i-obratnaya-svyaz.md)
