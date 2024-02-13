@@ -10,11 +10,11 @@
 
 Нажмите на "+" для добавления нового пакета и укажите URL репозитория: `https://github.com/top-100-writer/top100-tracker-ios` в нем находится Package.swift.
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выберите версию пакета и настройте правило обновления. Добавьте пакет в свой проект.
 
-<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 После добавления, пакет должен появиться в Package Dependencies, а также в левой панели.
 

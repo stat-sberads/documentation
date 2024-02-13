@@ -8,11 +8,11 @@ Debug-режим позволяет проверить корректность 
 
 В DevTools во вкладке Console появится логирование событий, где будет информация о названии счетчика, его параметрах и действиях.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 Вы также можете выбрать – показывать ли блоки, если вы используете аналитику блоков. Для активации нажмите на иконку Кракена на сайте.
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Обратите внимание! Функционал может работать нестабильно при включенном блокировщике рекламы.
