@@ -64,7 +64,7 @@ binary "https://raw.githubusercontent.com/top-100-writer/top100-tracker-ios/main
 
 После сборки проекта пакет в виде фреймворка должен отобразиться левой панели.
 
-<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Прямое подключение" %}
