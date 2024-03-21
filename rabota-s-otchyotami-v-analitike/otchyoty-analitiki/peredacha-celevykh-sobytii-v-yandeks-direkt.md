@@ -12,11 +12,11 @@
 
 **Шаг 1.** В левой панели выберите раздел «Пост клик в Яндекс Директ». Нажмите кнопку «Создать счётчик».
 
-<figure><img src="../../.gitbook/assets/new-top100.rambler.ru_stat_projects_7728268_post_click (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (15).png" alt=""><figcaption></figcaption></figure>
 
 Cчётчик создан и привязан.
 
-<figure><img src="../../.gitbook/assets/6 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (9).png" alt=""><figcaption></figcaption></figure>
 
 **Шаг 2.** После создания счётчика вам будет доступен список целей, которые можно передать в Яндекс Директ.&#x20;
 
@@ -38,7 +38,7 @@ Cчётчик создан и привязан.
 
 #### Доступ по Яндекс ID
 
-**Шаг 1.** Зайдите в аккаунт Яндекс Метрики и нажмите шестеренку (настройки) напротив нужного счётчика.
+**Шаг 1.** Зайдите в аккаунт Яндекс Метрики и нажмите шестеренку (настройки) напротив счётчика, в который хотите передать цели.
 
 <figure><img src="../../.gitbook/assets/id 1 (1).png" alt=""><figcaption></figcaption></figure>
 
