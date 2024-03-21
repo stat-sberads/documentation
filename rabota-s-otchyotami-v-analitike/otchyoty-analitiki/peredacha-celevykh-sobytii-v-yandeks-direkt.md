@@ -14,11 +14,11 @@
 
 <figure><img src="../../.gitbook/assets/1 (15).png" alt=""><figcaption></figcaption></figure>
 
-Cчётчик создан и привязан.
+Cчётчик создан и синхронизирован.
 
 <figure><img src="../../.gitbook/assets/6 (9).png" alt=""><figcaption></figcaption></figure>
 
-**Шаг 2.** После создания счётчика вам будет доступен список целей, которые можно передать в Яндекс Директ.&#x20;
+**Шаг 2.** После создания и синхронизации счётчика вам будет доступен список целей, которые можно передать в Яндекс Директ.&#x20;
 
 <figure><img src="../../.gitbook/assets/8 (3).png" alt=""><figcaption></figcaption></figure>
 
