@@ -5,7 +5,7 @@ SDK под Android предоставляется в виде библиотек
 Добавить в файл build.gradle:
 
 {% tabs %}
-{% tab title="Kotlin" %}
+{% tab title="Kotlin DSL" %}
 ```
 dependencies {
     // ...
@@ -14,7 +14,7 @@ dependencies {
 ```
 {% endtab %}
 
-{% tab title="Java" %}
+{% tab title="Groovy " %}
 ```
 dependencies {
     // ...
