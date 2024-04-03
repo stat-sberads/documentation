@@ -22,3 +22,5 @@ const eventData = {
 
 <strong>window.top100Counter?.trackEvent(eventName, eventData);
 </strong></code></pre>
+
+**Обратите внимание! В наименовании событий разрешены только большие и маленькие буквы, цифры, тире и нижнее подчеркивание.**
