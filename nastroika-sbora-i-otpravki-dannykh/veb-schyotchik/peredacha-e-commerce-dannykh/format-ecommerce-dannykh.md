@@ -18,11 +18,11 @@
 window.dataLayer.push({
     ecommerce: {
         currencyCode: '<код валюты по ISO 4217>',
-        actionType: '<actionType значения из таблицы>' - обязательное поле
-        products : [<productFieldObject>, <productFieldObject>, …],
+        actionType: '<actionType значения из таблицы>'- обязательное поле
+        products: [<productFieldObject>, <productFieldObject>, …],
         actionField: <actionField>,
-        promoActionType: <promoActionType  значения из таблицы> 
-        promotions : [<promoFieldObject>, <promoFieldObject>, …]
+        promoActionType: <promoActionType значения из таблицы>, 
+        promotions: [<promoFieldObject>, <promoFieldObject>, …]
     }
 });
 ```
@@ -36,9 +36,9 @@ window.dataLayer.push({
     ecommerce: {
         ccurrencyCode: '<код валюты по ISO 4217>',
         actionType: impressions, 
-        products : [<productFieldObject>, <productFieldObject>, …],
+        products: [<productFieldObject>, <productFieldObject>, …],
         promoActionType: promoView,
-        promotions : [<параметры конкретной рекламы в формате promoFieldObject>]
+        promotions: [<параметры конкретной рекламы в формате promoFieldObject>]
     }
 });
 ```
@@ -50,10 +50,10 @@ window.dataLayer.push({
     ecommerce: {
         currencyCode: '<код валюты по ISO 4217>',
         actionType: click,
-        actionField : {
+        actionField: {
              list = 'Результаты поиска'
         },
-        products : [<параметры конкретного товара в формате productFieldObject>]
+        products: [<параметры конкретного товара в формате productFieldObject>]
     }
 });
 ```
